@@ -17,7 +17,7 @@ Results: The accuracy and AUC of DC‐AL GAN for discriminating PsP and TTP afte
 
 Conclusions: The proposed model DC‐AL GAN is capable of learning discriminative representations from GBM datasets, and it achieves desirable PsP and TTP classification performance superior to other state‐of‐the‐art methods. Therefore, the developed model would be useful in the diagnosis of PsP and TTP for GBM.
 
-# Requied
+# Required
 Our code is based on **Python**.
 
 # Citation
