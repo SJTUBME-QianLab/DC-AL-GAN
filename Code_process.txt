@@ -1,0 +1,10 @@
+# Code_process
+# DC-AL GAN: Pseudoprogression and true tumor progression of glioblastomamultiform image classiﬁcation based on DCGAN and AlexNet
+
+1. Define the 'generator' network structure, see generator_simplified_api
+
+2. Define the 'discriminator' network structure, see discriminator_simplified_api
+
+3. 'discriminator' is used as feature extractor to extract features, see feature.outputs.
+
+4. Input the extracted features into SVM for classification, see GBM classification using SVM
